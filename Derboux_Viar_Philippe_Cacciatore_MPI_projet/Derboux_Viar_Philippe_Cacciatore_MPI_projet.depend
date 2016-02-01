@@ -1,0 +1,439 @@
+# depslib dependency file v1.0
+1400859446 source:c:\users\guillaume\documents\mpi_projet\automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+
+1401402355 
+
+1400622758 c:\users\guillaume\documents\mpi_projet\etat.h
+	<string>
+	<map>
+
+1400622300 c:\users\guillaume\documents\mpi_projet\transition.h
+
+1400857597 source:c:\users\guillaume\documents\mpi_projet\main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+
+1400845876 c:\users\guillaume\documents\mpi_projet\automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1400623432 source:c:\users\guillaume\documents\mpi_projet\transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1400623434 n.h"
+
+1400622758 source:c:\users\guillaume\documents\mpi_projet\etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1400622758 source:c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1400622758 c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\etat.h
+	<string>
+	<map>
+
+1400927621 source:c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+
+1400926630 c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1400622300 c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\transition.h
+
+1400623432 source:c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1400928069 source:c:\users\quentin\documents\efrei\projets_tai\mpi\mpi_projet\automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+
+1400619160 source:c:\users\20120067\desktop\mpi_projet\etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1400619160 c:\users\20120067\desktop\mpi_projet\etat.h
+	<string>
+	<map>
+
+1400619834 source:c:\users\20120067\desktop\mpi_projet\transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1400618702 c:\users\20120067\desktop\mpi_projet\transition.h
+
+1401301549 source:c:\users\20120067\desktop\mpi_projet\automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+
+1401300927 c:\users\20120067\desktop\mpi_projet\automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1401301712 source:c:\users\20120067\desktop\mpi_projet\main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+
+1401319078 source:c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+
+1400622760 c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\etat.h
+	<string>
+	<map>
+
+1400622302 c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\transition.h
+
+1401318999 c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1400622760 source:c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1401319054 source:c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+
+1400623434 source:c:\users\guillaume\desktop\mpi_projet_v4\mpi_projet\transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1400622760 source:c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1400622760 c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\etat.h
+	<string>
+	<map>
+
+1400623434 source:c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1400622302 c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\transition.h
+
+1401402548 source:c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+
+1401393282 c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1401402355 source:c:\users\guillaume\desktop\mpi_projet_v5\mpi_projet\main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+
+1400619160 source:/home/rems/Desktop/MPI_projet_V6/MPI_projet/etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1400619160 /home/rems/Desktop/MPI_projet_V6/MPI_projet/etat.h
+	<string>
+	<map>
+
+1400619834 source:/home/rems/Desktop/MPI_projet_V6/MPI_projet/transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1400618702 /home/rems/Desktop/MPI_projet_V6/MPI_projet/transition.h
+
+1401417804 source:/home/rems/Desktop/MPI_projet_V6/MPI_projet/automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+	"groupe.h"
+
+1401389682 /home/rems/Desktop/MPI_projet_V6/MPI_projet/automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1401417893 /home/rems/Desktop/MPI_projet_V6/MPI_projet/groupe.h
+	<string>
+
+1401417893 source:/home/rems/Desktop/MPI_projet_V6/MPI_projet/groupe.cpp
+	<iostream>
+	"etat.h"
+	"automate.h"
+	"groupe.h"
+	<string>
+	<map>
+
+1401414834 source:/home/rems/Desktop/MPI_projet_V6/MPI_projet/main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+
+1401455641 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\automate.cpp
+	"etat.h"
+	"transition.h"
+	<fstream>
+	<vector>
+	"automate.h"
+	<iostream>
+	"groupe.h"
+
+1401455817 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\etat.h
+	<string>
+	<map>
+
+1401455640 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\transition.h
+
+1401455641 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\automate.h
+	"etat.h"
+	"transition.h"
+	<vector>
+
+1401455640 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\groupe.h
+	<string>
+
+1401455817 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"etat.h"
+
+1401455638 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\groupe.cpp
+	<iostream>
+	"etat.h"
+	"automate.h"
+	"groupe.h"
+	<string>
+	<map>
+
+1401455641 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\main.cpp
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+
+1401455640 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"transition.h"
+
+1401469230 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_automate.cpp
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+	<fstream>
+	<sstream>
+	<vector>
+	"Derboux_Viar_Philippe_Cacciatore_automate.h"
+	<iostream>
+	"Derboux_Viar_Philippe_Cacciatore_groupe.h"
+
+1400622760 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_etat.h
+	<string>
+	<map>
+
+1400622302 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_transition.h
+
+1401455787 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_automate.h
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+	<vector>
+
+1401463289 c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_groupe.h
+	<string>
+
+1401455974 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+
+1401464865 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_groupe.cpp
+	<iostream>
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_automate.h"
+	"Derboux_Viar_Philippe_Cacciatore_groupe.h"
+	<string>
+	<map>
+
+1401456335 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_main.cpp
+	<iostream>
+	<map>
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_automate.h"
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<map>
+	"etat.h"
+	"automate.h"
+	"transition.h"
+	<string>
+	<stdio.h>
+
+1401456044 source:c:\users\guillaume\desktop\mpi_projet_v7\mpi_projet\derboux_viar_philippe_cacciatore_transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+
+1401736035 source:c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_automate.cpp
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+	<fstream>
+	<sstream>
+	<vector>
+	"Derboux_Viar_Philippe_Cacciatore_automate.h"
+	<iostream>
+	"Derboux_Viar_Philippe_Cacciatore_groupe.h"
+
+1400622760 c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_etat.h
+	<string>
+	<map>
+
+1400622302 c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_transition.h
+
+1401455787 c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_automate.h
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+	<vector>
+
+1401463289 c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_groupe.h
+	<string>
+
+1401455974 source:c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_etat.cpp
+	<iostream>
+	<map>
+	<string>
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+
+1401464865 source:c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_groupe.cpp
+	<iostream>
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_automate.h"
+	"Derboux_Viar_Philippe_Cacciatore_groupe.h"
+	<string>
+	<map>
+
+1401736920 source:c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_main.cpp
+	<iostream>
+	<map>
+	"Derboux_Viar_Philippe_Cacciatore_etat.h"
+	"Derboux_Viar_Philippe_Cacciatore_automate.h"
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+	<string>
+	<stdio.h>
+
+1401456044 source:c:\users\guillaume\desktop\mpi_projet_v7\derboux_viar_philippe_cacciatore_mpi_projet\derboux_viar_philippe_cacciatore_transition.cpp
+	<iostream>
+	<map>
+	<string>
+	"Derboux_Viar_Philippe_Cacciatore_transition.h"
+
